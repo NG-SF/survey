@@ -1,4 +1,4 @@
-<h1><a href="https://ng-sf.github.io/tribute/" target="_blank" rel="noopener">Survey Form</a></h1>
+<h1><a href="https://ng-sf.github.io/survey/" target="_blank" rel="noopener">Survey Form</a></h1>
 
 <h2>Responsive Web Design Project for  <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page" target="_blank">freeCodeCamp</a></h2>
 
